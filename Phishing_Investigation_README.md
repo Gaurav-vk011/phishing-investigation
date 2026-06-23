@@ -167,4 +167,6 @@ phishing-investigation/
 
 ---
 
-*This is a portfolio project using real phishing samples from the public Phishing Pot dataset, analyzed in a controlled Kali Linux lab environment for SOC Analyst L1 / Intern role preparation.*
+*This project demonstrates hands-on SOC investigation skills using 
+real-world phishing samples from the Phishing Pot public dataset, 
+analyzed in a Kali Linux environment..*
